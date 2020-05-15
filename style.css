@@ -1,0 +1,26 @@
+
+p{
+    
+    font-size: 20px;
+}
+span{
+
+    font-size: 20px;
+
+}
+div{
+
+font-size: 20px;
+}
+.cadre {
+
+    color: black;
+    background-color:gainsboro;
+    
+}
+.paddingright{
+
+
+padding: 50px;
+text-indent:2em
+}
